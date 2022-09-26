@@ -1,4 +1,4 @@
-<h1> HI </h1>
+<h1 color = "skyblue"> Hi, hub </h1>
 <br>
 Skill
 <p>
