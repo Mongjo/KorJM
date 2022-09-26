@@ -1,4 +1,4 @@
-<h1 style="color:darkblue;"> Hi, hub </h1>
+<font size = "8" color = "skyblue">Hi, hub</font>
 <br>
 Skill
 <p>
