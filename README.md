@@ -4,7 +4,7 @@
 <p>
 Welcome to my page!
 <br>
-I'm minjo Kim, a college student living in <img src = "https://t1.daumcdn.net/cfile/tistory/116F80154C432C0D81" width = "40" height = "40"> South Korea 
+I'm minjo Kim, a college student living in <img src = "https://t1.daumcdn.net/cfile/tistory/116F80154C432C0D81" width = "40" height = "30"> South Korea 
 </p>
 <br>
 Skill
