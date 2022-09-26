@@ -1,4 +1,7 @@
-<font size = "8" color = "skyblue">Hi, hub</font>
+<h1>
+  Hi, hub
+</h1>
+
 <br>
 Skill
 <p>
@@ -10,6 +13,7 @@ Skill
   <img alt="java" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
   <img alt = "Python" src="https://img.shields.io/badge/Pyhton-3776AB?style=flat-square&logo=Python&logoColor=white">
 </p>
+<hr border = "1">
 Things I Coding With
 <p>
   <img alt="java" src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
