@@ -7,7 +7,7 @@ Welcome to my page!
 I'm minjo Kim, a college student living in <img src = "https://t1.daumcdn.net/cfile/tistory/116F80154C432C0D81" width = "40" height = "30"> South Korea 
 </p>
 <br>
-Skill
+<font face = "돋움">Skill</font>
 <p>
   <img alt="java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
