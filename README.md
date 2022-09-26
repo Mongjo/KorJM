@@ -1,4 +1,4 @@
-<h1 tyle="color:skyblue;"> Hi, hub </h1>
+<h1 tyle="color:darkblue;"> Hi, hub </h1>
 <br>
 Skill
 <p>
