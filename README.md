@@ -16,6 +16,8 @@ Things I Coding With
   <img alt="java" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=macOS&logoColor=white"/>
   <img alt="java" src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"/>
   <img alt="java" src="https://img.shields.io/badge/Spyder IDE-FF0000?style=flat-square&logo=Spyder IDE&logoColor=white" />
-  
+</p>
+<p>
+   <img alt="java" src="https://img.shields.io/badge/Google-4385F4?style=flat-square&logo=Google&logoColor=white" />
 </p>
 
