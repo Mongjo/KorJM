@@ -25,6 +25,6 @@ Things I Coding With
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-b0b0b0?style=flat-square&logo=Visual Studio Code&logoColor=blue"/>
   <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-eeffa7?style=flat-square&logo=Anaconda&logoColor=44A833" />
   <img alt="dev.to" src="https://img.shields.io/badge/dev.to-a7ffca?style=flat-square&logo=dev.to&logoColor=11009b"/>
- 
+  <img alt="Git" src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=F05032"/>
 </p>
 
