@@ -2,7 +2,7 @@
 <br>
 Skill
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B- style=flat-square&logo=simpleicons C++ &logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Pyhton-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img alt="java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3" />
