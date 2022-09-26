@@ -2,9 +2,9 @@
   <img src = "https://cdn.class101.net/images/da83309f-dda9-404d-9d12-93e9a4046a3b" width = "100" height = "100">&nbsp; Hi, hub &nbsp;<img src = "https://cdn.class101.net/images/da83309f-dda9-404d-9d12-93e9a4046a3b" width = "100" height = "100">
 </h1>
 <p>
-Welcome to my hub!
+Welcome to my page!
 <br>
-I'm minjo Kim, a college student living in South Korea <img src = "https://t1.daumcdn.net/cfile/tistory/116F80154C432C0D81" width = "40" height = "40">
+I'm minjo Kim, a college student living in <img src = "https://t1.daumcdn.net/cfile/tistory/116F80154C432C0D81" width = "40" height = "40"> South Korea 
 </p>
 <br>
 Skill
