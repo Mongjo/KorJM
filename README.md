@@ -1,5 +1,5 @@
 <h1>
-  <img src = "https://cdn.class101.net/images/da83309f-dda9-404d-9d12-93e9a4046a3b">&nbsp; Hi, hub &nbsp;<img src = "https://cdn.class101.net/images/da83309f-dda9-404d-9d12-93e9a4046a3b">
+  <img src = "https://cdn.class101.net/images/da83309f-dda9-404d-9d12-93e9a4046a3b" width = "100" height = "100">&nbsp; Hi, hub &nbsp;<img src = "https://cdn.class101.net/images/da83309f-dda9-404d-9d12-93e9a4046a3b" width = "100" height = "100">
 </h1>
 
 <br>
