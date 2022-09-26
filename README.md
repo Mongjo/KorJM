@@ -1,6 +1,6 @@
 <h1>
   <img src = "https://cdn.class101.net/images/da83309f-dda9-404d-9d12-93e9a4046a3b" width = "100" height = "100">&nbsp; Hi &nbsp;<img src = "https://cdn.class101.net/images/da83309f-dda9-404d-9d12-93e9a4046a3b" width = "100" height = "100"> 
-    <img src = "https://t1.daumcdn.net/cfile/tistory/116F80154C432C0D81" width = "100" height = "100" align = "right">
+    <img src = "https://t1.daumcdn.net/cfile/tistory/116F80154C432C0D81" width = "200" height = "100" align = "right">
 </h1>
 <p>
 Welcome to my page!
