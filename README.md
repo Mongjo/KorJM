@@ -27,4 +27,6 @@ Things I Coding With
   <img alt="dev.to" src="https://img.shields.io/badge/dev.to-a7ffca?style=flat-square&logo=dev.to&logoColor=11009b"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=F05032"/>
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?KorJM=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
