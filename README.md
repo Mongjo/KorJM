@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=Rect&color=auto&height=200&section=header&text=KorJM's&nbsp;Hub%20&fontSize=90" />
+
 <h1>
   <img src = "https://cdn.class101.net/images/da83309f-dda9-404d-9d12-93e9a4046a3b" width = "100" height = "100">&nbsp; Hi &nbsp;<img src = "https://cdn.class101.net/images/da83309f-dda9-404d-9d12-93e9a4046a3b" width = "100" height = "100"> 
 </h1>
@@ -27,6 +29,15 @@ Things I Coding With
   <img alt="dev.to" src="https://img.shields.io/badge/dev.to-a7ffca?style=flat-square&logo=dev.to&logoColor=11009b"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=F05032"/>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?KorJM=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center"> Stats </h3>
+<div align="center">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KorJM&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=cobalt)](https://github.com/KorJM/github-readme-stats)
+
+<h3> Language </h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KorJM&layout=compact&theme=cobalt)
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=Rect&color=auto&height=200&section=footer&text=Thank&nbsp;you%20&fontSize=90" />
 
