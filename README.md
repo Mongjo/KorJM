@@ -12,9 +12,9 @@ I'm minjo Kim, a college student living in <img src = "https://t1.daumcdn.net/cf
 Skill
 <p>
   <img alt="java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=f1ff8c" />
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3&logoColor=f1ff8c" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=ceff8c" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=orange" />
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=blue" />
   <img alt = "Python" src="https://img.shields.io/badge/Pyhton-3776AB?style=flat-square&logo=Python&logoColor=yellow">
