@@ -32,11 +32,11 @@ Things I Coding With
 <h3 align="center"> Stats </h3>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KorJM&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=cobalt)](https://github.com/KorJM/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KorJM&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=synthwave)](https://github.com/KorJM/github-readme-stats)
 
 <h3> Language </h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KorJM&layout=compact&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KorJM&layout=compact&theme=synthwave)
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=Rect&color=auto&height=200&section=footer&text=Thank&nbsp;you%20&fontSize=90" />
