@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Rect&color=auto&height=200&section=header&text=KorJM's&nbsp;Hub%20&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Rect&color=auto&height=200&section=header&text=Ayo's&nbsp;Hub%20&fontSize=90" />
 
 <h1>
   <img src = "https://cdn.class101.net/images/da83309f-dda9-404d-9d12-93e9a4046a3b" width = "100" height = "100">&nbsp; Hi &nbsp;<img src = "https://cdn.class101.net/images/da83309f-dda9-404d-9d12-93e9a4046a3b" width = "100" height = "100"> 
